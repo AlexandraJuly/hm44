@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+    background: rgb(107, 0, 139);
+}
+.header__nav {
+}
+.header__link {
+    margin: 0 5px;
+    font-weight: bold;
+    color: #dc61fb;
+    text-decoration: none;
+}
+.header__link:active{
+    color: rgb(193, 179, 245);
+
+}
